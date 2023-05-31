@@ -1,0 +1,73 @@
+@font-face {
+    font-family: mel;
+    src: url(./assets/font/Amita-Bold.ttf);
+}
+
+@font-face {
+    font-family: chloe;
+    src: url(./assets/font/Amita-Regular.ttf);
+}
+
+body {
+    font-family: chloe;
+}
+
+
+
+.topline {
+    height: 100vh;
+    background-image: url("./assets/images/B94A2066.jpeg");
+    background-size: cover;
+
+}
+
+.address {
+    font-size: 18px;
+    font-weight: 900;
+    color: #160437;
+}
+.header {
+    display: flex;
+    font-size: large;
+    font-weight: 700;
+    color: #160437;
+    
+    padding-top: 2rem;
+    padding-left: 10rem;
+}
+.navigation {
+    display: flex;
+
+}
+.phone {
+    padding-left: 12rem;
+    padding-top: 1rem;
+}
+
+.name {
+    font-size: 30px !important;
+    font-weight: 900;
+    color: #7f0c0c !important;
+    font-family: mel;
+    padding-left: 10rem;
+}
+
+.home {
+    font-size: 20px !important;
+    font-weight: 900;
+    color: #160437;
+    padding-left: 8rem;
+    
+}
+
+.servise {
+    padding-left: 10rem;
+    font-weight: 900;
+    font-size: 20px !important;
+}
+
+.about-us {
+    padding-left: 10rem;
+    font-weight: 900;
+    font-weight: 20px;
+}
