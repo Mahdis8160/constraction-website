@@ -25,6 +25,7 @@ body {
     font-size: 18px;
     font-weight: 900;
     color: #160437;
+
 }
 .header {
     display: flex;
@@ -70,4 +71,10 @@ body {
     padding-left: 10rem;
     font-weight: 900;
     font-weight: 20px;
+}
+.fa-brands {
+    padding-left: 8rem !important;
+}
+.fa-solid {
+    padding-left: 8rem !important;
 }
